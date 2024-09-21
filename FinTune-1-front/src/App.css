@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.navbar-custom .navbar-nav {
+	margin-top: 0.7rem;
+	margin-bottom: 0.5rem;
+}
+
+.navbar-custom .nav-item .nav-link {
+	padding: 0.6rem 0.7rem 0.6rem 0.7rem;
+	color: #F7F5F5;
+	opacity: 0.8;
+	text-decoration: none;
+	transition: all 0.2s ease;
+}
+
+.navbar-custom .nav-item .nav-link:hover,
+.navbar-custom .nav-item .nav-link:active {
+	color: #FFF;
+	opacity: 1;
+}
+
+.navbar-custom .nav-item .btn-outline-sm {
+	margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0.5rem;
+    border: 0.125rem solid #fff;
+    color: #fff;
+}
+
+.registration-link {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.registration-link a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.registration-link a:hover {
+  text-decoration: underline;
+}
+
+.symbol {
+  font-size: 15;
+  font-weight: bold;
+  color: lightskyblue;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
