@@ -22,6 +22,7 @@ Frontend:
   - React,
   - Axios(HTTP request)
   - Tailwind CSS,
+  - JavaScript,
   - HTML
 
 ------
