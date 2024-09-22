@@ -3,9 +3,11 @@
 
  The system provides users with real-time stock prices data, allows them to monitor 
        and manage their stock portfolios, and offer insights for informed investment decisions.
+
+Technologies
 ----
 
---- Technologies
+
 
 ------
 Backend & API: 
@@ -33,7 +35,30 @@ Satisfied these requirements:
 
 Clown or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git```
 
-Code snipet ----
+UI/UX of the Project:
+------
+
+
+![Screenshot 2024-09-09 194319](https://github.com/user-attachments/assets/28898a85-5bfe-4e30-927f-252df721b34d)
+
+![Screenshot 2024-09-09 194223](https://github.com/user-attachments/assets/0a959936-d262-4616-bb51-c2724805d439)
+
+![Screenshot 2024-09-09 193633](https://github.com/user-attachments/assets/4a3a12b5-1320-41b0-be11-dc44dc25c6e9)
+
+![Screenshot 2024-09-09 192904](https://github.com/user-attachments/assets/4a5c6acf-1996-4b5e-8008-71d9c5a2e789)
+
+![Screenshot 2024-09-07 204748](https://github.com/user-attachments/assets/8ced03d5-2a84-4999-876a-b14fe681bc96)
+
+![Screenshot 2024-09-21 172619](https://github.com/user-attachments/assets/02e92bc9-b310-447e-ac11-4c211e1d9dae)
+
+![Screenshot 2024-09-09 194511](https://github.com/user-attachments/assets/d7a965cb-e365-4b26-b64e-0edfab8b2443)
+
+
+
+
+
+
+Code snippet ----
 
 ```Java
 //method to get stock data
@@ -321,24 +346,5 @@ const StockList2 = () => {
 }
 export default StockList2;
 ```
-
-
-UI/UX of the Project:
-------
-![Screenshot 2024-09-21 172619](https://github.com/user-attachments/assets/02e92bc9-b310-447e-ac11-4c211e1d9dae)
-
-![Screenshot 2024-09-09 194511](https://github.com/user-attachments/assets/d7a965cb-e365-4b26-b64e-0edfab8b2443)
-
-![Screenshot 2024-09-09 194414](https://github.com/user-attachments/assets/d3df83c8-b5ad-4332-aff0-1cc612a0080f)
-
-![Screenshot 2024-09-09 194319](https://github.com/user-attachments/assets/28898a85-5bfe-4e30-927f-252df721b34d)
-
-![Screenshot 2024-09-09 194223](https://github.com/user-attachments/assets/0a959936-d262-4616-bb51-c2724805d439)
-
-![Screenshot 2024-09-09 193633](https://github.com/user-attachments/assets/4a3a12b5-1320-41b0-be11-dc44dc25c6e9)
-
-![Screenshot 2024-09-09 192904](https://github.com/user-attachments/assets/4a5c6acf-1996-4b5e-8008-71d9c5a2e789)
-
-![Screenshot 2024-09-07 204748](https://github.com/user-attachments/assets/8ced03d5-2a84-4999-876a-b14fe681bc96)
 
 
