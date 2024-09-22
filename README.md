@@ -44,6 +44,10 @@ UI/UX of the Project:
 
 ![Screenshot 2024-09-09 192904](https://github.com/user-attachments/assets/4a5c6acf-1996-4b5e-8008-71d9c5a2e789)
 
+![Screenshot 2024-09-09 194414](https://github.com/user-attachments/assets/3c82f203-ba97-463d-8f15-43fa2559f22f)
+
+![Screenshot 2024-09-09 193633](https://github.com/user-attachments/assets/eb309e93-4ff0-4e96-8ae5-cba7e235eda1)
+
 ![Screenshot 2024-09-21 172619](https://github.com/user-attachments/assets/02e92bc9-b310-447e-ac11-4c211e1d9dae)
 
 ![Screenshot 2024-09-09 194511](https://github.com/user-attachments/assets/d7a965cb-e365-4b26-b64e-0edfab8b2443)
