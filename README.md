@@ -20,7 +20,7 @@ Backend & API:
 
 Frontend:
   - React,
-  - Axios(HTTP request)
+  - Axios(HTTP request),
   - Tailwind CSS,
   - JavaScript,
   - HTML
