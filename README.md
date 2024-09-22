@@ -179,8 +179,8 @@ Code snippet ----
 ```
 
 - StockPrices
-- 
-```React
+ 
+```JSX
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
 
@@ -264,7 +264,7 @@ export default StockPrices;
 ```
 
 - StockList
-```React
+```JSX
 import React, { useEffect , useState} from 'react'
 import { useNavigate } from 'react-router-dom'
 
@@ -273,7 +273,7 @@ import StockService from '../services/StockService';
 import StockPrices from './StockPrices';
 
 
-const StockList2 = () => {
+const StockList = () => {
     const navigate = useNavigate();
 
     const [loading, setLoading] = useState(true);
@@ -343,7 +343,7 @@ const StockList2 = () => {
         </>
     );
 }
-export default StockList2;
+export default StockList;
 ```
 
 
