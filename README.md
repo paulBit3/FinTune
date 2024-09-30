@@ -39,7 +39,7 @@ Clown or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git
 UI/UX of the Project:
 ------
 
-![Screenshot 2024-09-07 204748](https://github.com/user-attachments/assets/8ced03d5-2a84-4999-876a-b14fe681bc96)
+![Screenshot 2024-09-29 195044](https://github.com/user-attachments/assets/bc95d5f2-8a17-4408-a4cf-1dbc9065a081)
 
 ![Screenshot 2024-09-09 193633](https://github.com/user-attachments/assets/eb309e93-4ff0-4e96-8ae5-cba7e235eda1)
 
