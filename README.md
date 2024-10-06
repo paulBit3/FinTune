@@ -4,13 +4,13 @@
  The system provides users with real-time stock prices data, allows them to monitor 
        and manage their stock portfolios, and offer insights for informed investment decisions.
 
-Technologies
+Technology Stack:
 ----
 
 
 
 ------
-Backend & API: 
+Backend(Java) & API: 
   - Java,
   - Spring Boot,
   - Spring Data JPA,
@@ -18,23 +18,45 @@ Backend & API:
   - MySQL,
   - AlphaVantage API integration(3rd party financial API)
 
-Frontend:
+Frontend(React):
   - React,
   - Axios(HTTP request),
   - Tailwind CSS,
   - JavaScript,
   - HTML
 
-------
-Satisfied these requirements:
----
-- Users can subscribe to a plan.
-- Users can create an account by registering.
-- Users can login to buy stock and logout. 
-- Users can buy or sell stock.
-- *Buing/Selling stock(still implementing).
+Architecture(Microservices):
+  - The application components communicate via API.
+  - The app use RESTful API, for communication between the React frontend and the Java backend
 
-Clown or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git```
+------
+Satisfied these Core features:
+---
+User Authentication & Profiles:
+- Users can register, login, manage their profiles, and logout.
+- The app store users info such as investment goals, expenses habits, etc..
+
+Coaching Session Booking:
+- Users can book a Coaching Sessions with Certified investment coaches
+- The app integrated Scheduling system for appointments
+- The app integrated a video conference feature for live sessions
+  
+Subscription & Plan:
+- Users can subscribe to a plan to buy stock or sell stock
+- Users can subscribe to a plan for an investment coaching session. 
+- Users can buy or sell stock(still implementing).
+
+Investment Portfolio Tracking:
+- Users can track their investment portfolios
+- The app integrated Vizualisations and Analytics for Portfolio performance
+
+Investment Community Forum:
+- A space where users can interact, ask questions, and share insights their investment portfolios
+  
+Educational Resources:
+- The app offers educational content such as articles, videos, and tutorials for investment strategies.
+- 
+Clone or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git```
 
 UI/UX of the Project:
 ------
