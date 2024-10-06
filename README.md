@@ -2,7 +2,7 @@
 ------
 
  The system provides users with real-time stock prices data, allows them to monitor 
-       and manage their stock portfolios, and offer insights for informed investment decisions.
+       and manage their stock portfolios, and offer insights for informed investment decisions and coaching.
 
 Technology Stack:
 ----
@@ -55,7 +55,7 @@ Investment Community Forum:
   
 Educational Resources:
 - The app offers educational content such as articles, videos, and tutorials for investment strategies.
-- 
+
 Clone or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git```
 
 UI/UX of the Project:
