@@ -60,6 +60,7 @@ Clone or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git
 
 UI/UX of the Project:
 ------
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/8b3a7731-2806-4c88-89ea-4bee53cea6c8">
 
 ![Screenshot 2024-09-29 195044](https://github.com/user-attachments/assets/bc95d5f2-8a17-4408-a4cf-1dbc9065a081)
 
