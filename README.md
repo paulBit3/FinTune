@@ -61,6 +61,8 @@ Clone or Download the zip  ```git clone: https://github.com/paulBit3/FinTune.git
 UI/UX of the Project:
 ------
 
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/8b3a7731-2806-4c88-89ea-4bee53cea6c8">
+
 ![Screenshot 2024-09-29 195044](https://github.com/user-attachments/assets/bc95d5f2-8a17-4408-a4cf-1dbc9065a081)
 
 ![Screenshot 2024-09-09 193633](https://github.com/user-attachments/assets/eb309e93-4ff0-4e96-8ae5-cba7e235eda1)
@@ -71,7 +73,9 @@ UI/UX of the Project:
 
 ![Screenshot 2024-09-09 194414](https://github.com/user-attachments/assets/3c82f203-ba97-463d-8f15-43fa2559f22f)
 
-![Screenshot 2024-09-21 172619](https://github.com/user-attachments/assets/02e92bc9-b310-447e-ac11-4c211e1d9dae)
+
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/c42131c0-ec97-4ba6-a1a4-64a4c23d2264" />
+
 
 ![Screenshot 2024-09-09 194511](https://github.com/user-attachments/assets/d7a965cb-e365-4b26-b64e-0edfab8b2443)
 
