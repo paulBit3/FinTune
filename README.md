@@ -15,6 +15,8 @@ Backend(Java) & API:
   - Spring Boot,
   - Spring Data JPA,
   - Spring Security,
+  - Node.JS,
+  - Express,
   - MySQL,
   - AlphaVantage API integration(3rd party financial API)
 
